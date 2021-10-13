@@ -1,1 +1,59 @@
 /* You can add global styles to this file, and also import other style files */
+.title
+{
+    margin-top: 50px;
+    text-align: center;
+    font-family: serif;
+    color: black;
+}
+
+.body
+{
+    width: 350px;
+    height: 300px;
+    background-image: linear-gradient(to bottom right, #FAF1D6, #B6E3E9);
+    margin: auto;
+    border-radius: 20px;
+    padding: 40px;
+    margin-top: 50px;
+}
+
+.text
+{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.field
+{
+    width: 100%;
+    height: 25px;
+    margin-bottom: 5px;
+    background-color:  #ebe5e3;
+}
+
+.result
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.buttons
+{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.btn
+{
+    width: 60px;
+    height: 53px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right, #AF005F, #f85084);
+    color: white;
+    margin-left: 12px;
+    font-size: 20px;
+}
